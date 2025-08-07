@@ -1,0 +1,14 @@
+FILENAME: Multi_Source_Test_Project
+SOURCE: Video_Part_1.mp4
+00:00:00-00:05:30,Introduction and Overview
+00:07:00-00:12:15,Key Concepts Explained
+00:15:30-00:20:45,First Case Study
+SOURCE: Video_Part_2.mp4
+00:00:00-00:08:20,Advanced Techniques
+00:10:00-00:15:30,Implementation Examples
+00:18:00-00:22:45,Best Practices
+SOURCE: Video_Part_3.mp4
+00:02:15-00:07:30,Real-world Applications
+00:09:45-00:14:20,Troubleshooting Guide
+00:16:00-00:19:30,Conclusion and Next Steps
+
