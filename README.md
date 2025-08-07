@@ -1,5 +1,9 @@
 # Premiere Cutter: FCPXML Generator for Adobe Premiere
 
+> Use this custom GPT to edit your transcription:  
+> https://chatgpt.com/g/g-6894a72d16f481919324e5d2382d6ba5-video-in-premiere-import-file-generator
+
+
 `Premiere Cutter` is a Python application with a graphical user interface (GUI) that automates the creation of video editing projects for Adobe Premiere Pro. It takes a simple text-based "cut table" as input and generates a Final Cut Pro XML (`.xml`) file that defines a video sequence with cuts, transitions, and custom title cards.
 
 This tool is designed to streamline the post-production workflow by allowing editors to define an entire edit decision list (EDL) in a plain text file, which the script then converts into a ready-to-import Premiere Pro project.
